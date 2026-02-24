@@ -2,6 +2,8 @@
 Mayavi: 3D visualization of scientific data in Python
 ======================================================
 
+Note: this is the first change sanjana and cyncy made
+
 Mayavi docs: http://docs.enthought.com/mayavi/mayavi/
 TVTK docs: http://docs.enthought.com/mayavi/tvtk
 
