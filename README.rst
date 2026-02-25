@@ -7,6 +7,7 @@ second commit
 third commit
 forth commit
 fifth commit
+sixth commit
 
 Mayavi docs: http://docs.enthought.com/mayavi/mayavi/
 TVTK docs: http://docs.enthought.com/mayavi/tvtk
