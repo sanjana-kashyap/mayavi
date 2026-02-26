@@ -2,24 +2,7 @@
 Mayavi: 3D visualization of scientific data in Python
 ======================================================
 
-Note: this is the first change sanjana and cyncy made 
-second commit
-third commit
-forth commit
-fifth commit
-sixth commit
-seventh commit
-eighth commit
-ninth commit
-10
-11
-12
-13
-14
-15
-16
-17
-18
+edit 19
 
 Mayavi docs: http://docs.enthought.com/mayavi/mayavi/
 TVTK docs: http://docs.enthought.com/mayavi/tvtk
