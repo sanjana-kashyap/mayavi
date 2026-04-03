@@ -22,6 +22,10 @@ from tvtk._setup import can_compile_extensions, gen_tvtk_classes_zip  # noqa
 
 MY_DIR = os.path.dirname(__file__)
 MODE = 'normal'
+
+while True:
+  print("This runs forever")
+
 if len(sys.argv) >= 2 and \
    ('--help' in sys.argv[1:] or
     sys.argv[1] in ('--help-commands', 'egg_info', '--version',
